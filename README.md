@@ -3,7 +3,7 @@
 Welcome! This project analyzes customer churn patterns using a PostgreSQL database and R for data wrangling and visualization.
 Note: the goal for this project is not to produce relevant data, but for me to practice and share multiplatform coding and good data practice.
 
-## 📌 Project Overview
+## Project Overview
 
 This repository demonstrates how to:
 - Set up a relational database for customer data
@@ -13,7 +13,7 @@ This repository demonstrates how to:
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 churn_analysis/
 ├── data/
 │ └── create_tables.sql 
