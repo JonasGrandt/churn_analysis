@@ -1,0 +1,25 @@
+# R History and Workspace Files
+.Rhistory
+.RData
+.Rapp.history
+
+# RStudio Project Files
+.Rproj.user/
+*.Rproj
+
+# Environment Variables
+.Renviron
+
+# SQL Dumps or Backups (optional, depending on use case)
+*.sql~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
+
+# Personal notebooks or scratchpads
+*.nb.html
