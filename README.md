@@ -53,5 +53,5 @@ readRenviron("~/.Renviron")
 ## Make sure these R packages are installed:
 install.packages(c("DBI", "RPostgres", "dplyr", "ggplot2", "lubridate"))
 
-## This project is for self learning
+
 
